@@ -35,7 +35,7 @@
 <details>
   <summary>📁 Мои проекты</summary>
   <ul>
-    <li><a href="https://github.com/Geekyup/job-aggregator">Агрегатор вакансий (Django)</a></li>
+    <li><a href="https://github.com/Geekyup/FreelanceTasker">FreelanceTasker (Django)</a></li>
     <!-- сюда можно добавить будущие интересные проекты -->
   </ul>
 </details>
