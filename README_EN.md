@@ -2,16 +2,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Robert&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python%20Backend%20Developer%20%7C%20Data%20Scraping%20Specialist&descAlignY=55&descSize=16" width="100%"/>
 
-[🇷🇺 Русский](README.md) | **🇬🇧 English**
+<a href="README.md">![](https://img.shields.io/badge/Language-Русский-373737?style=for-the-badge)</a>
+![](https://img.shields.io/badge/Language-English-0052B4?style=for-the-badge)
 
-</div>
-
-<div align="center">
+<br/>
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/opmrobert)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Geekyup)
 
 </div>
+
+---
 
 ---
 
