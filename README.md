@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Robert&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python%20Backend%20Developer%20%7C%20Data%20Scraping%20Specialist&descAlignY=55&descSize=16" width="100%"/>
 
+**🇷🇺 Русский** | [🇬🇧 English](README_EN.md)
+
 </div>
 
 <div align="center">
@@ -13,7 +15,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Стек технологий
 
 **Backend**
 
@@ -42,44 +44,44 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Избранные проекты
 
 
 ### 📡 [Telegram Parser Bot](https://github.com/Geekyup/TG-Parser)
-> Keyword monitor across Telegram channels with control bot
+> Мониторинг ключевых слов в Telegram-каналах с ботом управления
 
-Listens to multiple Telegram channels/groups, detects keyword matches and forwards hits to a delivery chat. Fully manageable via a companion bot — add/remove channels, pause/resume, view recent matches — no code edits needed.
+Отслеживает множество Telegram-каналов/групп, обнаруживает совпадения по ключевым словам и пересылает найденные посты в целевой чат. Полностью управляется через бота-компаньона: добавление/удаление каналов, пауза/возобновление, просмотр недавних совпадений — редактирование кода не требуется.
 
-**Stack:** `Python 3.11` `Telethon` `python-dotenv` `Docker`
+**Стек:** `Python 3.11` `Telethon` `python-dotenv` `Docker`
 
 `Dockerfile` `real-time` `bot UI` `multi-source`
 
 ---
 
 ### 🛒 [E-Commerce FastAPI](https://github.com/Geekyup/E-commerce-FastAPI)
-> Production-ready e-commerce backend template
+> Готовый к продакшену шаблон бэкенда для интернет-магазина
 
-JWT auth, user management, product catalog with image upload, shopping cart, order management with status tracking, Alembic migrations. Clean architecture ready to extend.
+JWT-авторизация, управление пользователями, каталог товаров с возможностью загрузки изображений, корзина покупок, управление заказами с отслеживанием статуса, миграции Alembic. Чистая архитектура, готовая к расширению.
 
-**Stack:** `Python` `FastAPI` `SQLAlchemy` `PostgreSQL` `Alembic` `JWT`
+**Стек:** `Python` `FastAPI` `SQLAlchemy` `PostgreSQL` `Alembic` `JWT`
 
 `REST API` `auth` `migrations` `orders`
 
 ---
 
 ### 🎵 [SoundWave](https://github.com/Geekyup/SoundWave)
-> Full-stack audio platform for loops, samples & drum kits
+> Full-stack аудиоплатформа для лупов, семплов и драм-китов
 
-Upload, browse and organize audio content with genre and BPM metadata. Auto-extracts BPM from filenames, generates preview audio via ffmpeg, renders waveforms with cached peaks.  
-**Live demo:** [soundwave-production-d3a5.up.railway.app](https://soundwave-production-d3a5.up.railway.app)
+Загрузка, просмотр и организация аудиоконтента с метаданными жанра и BPM. Автоматически извлекает BPM из названий файлов, генерирует превью аудио с помощью ffmpeg, рендерит форму волны (waveforms) с кэшированием пиков.  
+**Live демо:** [soundwave-production-d3a5.up.railway.app](https://soundwave-production-d3a5.up.railway.app)
 
-**Stack:** `Django` `DRF` `React` `Vite` `PostgreSQL` `Cloudinary` `Railway`
+**Стек:** `Django` `DRF` `React` `Vite` `PostgreSQL` `Cloudinary` `Railway`
 
 `full-stack` `audio` `waveforms` `deployed`
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Статистика GitHub
 
 <div align="center">
 
@@ -95,21 +97,21 @@ Upload, browse and organize audio content with genre and BPM metadata. Auto-extr
 
 ---
 
-## 🔍 What I Do Well
+## 🔍 Что я умею делать хорошо
 
-- **Anti-detection scraping** — TLS fingerprint spoofing, real browser automation, cookie management, human-like behaviour patterns
-- **API backends** — FastAPI/Django REST services with JWT auth, SQLAlchemy ORM, Alembic migrations
-- **Data pipelines** — collect → parse → clean → export to Excel/JSON/DB
-- **Bot development** — Telegram bots with inline keyboards and real-time event handling
-- **Full-stack** — Django + React + Vite, deployed on Railway/Vercel
+- **Скрапинг в обход систем защиты (Anti-detection)** — подмена отпечатков TLS (TLS fingerprint spoofing), автоматизация реальных браузеров, управление cookies, имитация поведения реального пользователя.
+- **API бэкенд** — REST-сервисы на FastAPI/Django с JWT-авторизацией, ORM SQLAlchemy, миграции Alembic.
+- **Пайплайны данных** — сбор → парсинг → очистка → экспорт в Excel/JSON/Базы данных.
+- **Разработка ботов** — Telegram-боты с инлайн-клавиатурами и обработкой событий в реальном времени.
+- **Full-stack разработка** — Django + React + Vite, с деплоем на Railway/Vercel.
 
 ---
 
-## 📬 Get In Touch
+## 📬 Контакты
 
-I'm open to freelance projects in web scraping, parser development, and Python backend work.
+Я открыт для фриланс-проектов в сфере веб-скрапинга, разработки парсеров и бэкенда на Python.
 
-[![Telegram](https://img.shields.io/badge/Write%20me%20on%20Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/opmrobert)
+[![Telegram](https://img.shields.io/badge/Написать%20мне%20в%20Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/opmrobert)
 
 ---
 
