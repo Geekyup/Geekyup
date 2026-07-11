@@ -85,22 +85,6 @@ JWT-авторизация, управление пользователями, �
 
 ---
 
-## 📊 Статистика GitHub
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geekyup&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Geekyup&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🔍 Что я умею делать хорошо
 
 - **Скрапинг в обход систем защиты (Anti-detection)** — подмена отпечатков TLS (TLS fingerprint spoofing), автоматизация реальных браузеров, управление cookies, имитация поведения реального пользователя.
