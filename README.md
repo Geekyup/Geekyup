@@ -51,25 +51,26 @@
 ## 🚀 Избранные проекты
 
 
-### 📡 [Telegram Parser Bot](https://github.com/Geekyup/TG-Parser)
-> Мониторинг ключевых слов в Telegram-каналах с ботом управления
+### 🥁 [Kitroom](https://github.com/Geekyup/Kitroom)
+> Full-stack платформа для обмена драм-китами
 
-Отслеживает множество Telegram-каналов/групп, обнаруживает совпадения по ключевым словам и пересылает найденные посты в целевой чат. Полностью управляется через бота-компаньона: добавление/удаление каналов, пауза/возобновление, просмотр недавних совпадений — редактирование кода не требуется.
+Загрузка и хранение драм-китов с обработкой ZIP-архивов, публичные авторские профили, фоновая обработка через воркеры и объектное хранилище. Бэкенд на FastAPI с асинхронным SQLAlchemy, фронтенд на Next.js, деплой через Docker.  
+**Live демо:** [frontend-production-6aad.up.railway.app](https://frontend-production-6aad.up.railway.app/)
 
-**Стек:** `Python 3.11` `Telethon` `python-dotenv` `Docker`
+**Стек:** `FastAPI` `SQLAlchemy 2.0` `Next.js` `PostgreSQL` `Redis` `Docker`
 
-`Dockerfile` `real-time` `bot UI` `multi-source`
+`full-stack` `object-storage` `background-workers` `deployed`
 
 ---
 
-### 🛒 [E-Commerce FastAPI](https://github.com/Geekyup/E-commerce-FastAPI)
-> Готовый к продакшену шаблон бэкенда для интернет-магазина
+### 🔐 [template-fastapi-jwt-auth](https://github.com/Geekyup/template-fastapi-jwt-auth)
+> Готовый шаблон JWT-аутентификации на FastAPI
 
-JWT-авторизация, управление пользователями, каталог товаров с возможностью загрузки изображений, корзина покупок, управление заказами с отслеживанием статуса, миграции Alembic. Чистая архитектура, готовая к расширению.
+Boilerplate для быстрого старта проектов на FastAPI: регистрация и вход по логину/паролю, выдача access и refresh JWT-токенов, хеширование паролей, защищённые эндпоинты с зависимостями авторизации, асинхронная работа с БД и миграции Alembic.
 
 **Стек:** `Python` `FastAPI` `SQLAlchemy` `PostgreSQL` `Alembic` `JWT`
 
-`REST API` `auth` `migrations` `orders`
+`boilerplate` `auth` `REST API` `migrations`
 
 ---
 
