@@ -1,24 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Robert&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python%20Backend%20Developer%20%7C%20Data%20Scraping%20Specialist&descAlignY=55&descSize=16" width="100%"/>
-
-<!-- Переключатель языков -->
-![](https://img.shields.io/badge/Language-Русский-0052B4?style=for-the-badge)
-<a href="README_EN.md">![](https://img.shields.io/badge/Language-English-373737?style=for-the-badge)</a>
-
-<br/>
-
-</div>
-
-<div align="center">
-  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/opmrobert)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Geekyup)
-
-</div>
-
----
-
 ## 🛠️ Стек технологий
 
 **Backend**
@@ -86,7 +65,7 @@ Boilerplate для быстрого старта проектов на FastAPI: 
 
 ---
 
-## 🔍 Что я умею делать хорошо
+## 🔍 Что я умею 
 
 - **Скрапинг в обход систем защиты (Anti-detection)** — подмена отпечатков TLS (TLS fingerprint spoofing), автоматизация реальных браузеров, управление cookies, имитация поведения реального пользователя.
 - **API бэкенд** — REST-сервисы на FastAPI/Django с JWT-авторизацией, ORM SQLAlchemy, миграции Alembic.
@@ -102,10 +81,6 @@ Boilerplate для быстрого старта проектов на FastAPI: 
 
 [![Telegram](https://img.shields.io/badge/Написать%20мне%20в%20Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/opmrobert)
 
----
 
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-</div>
