@@ -63,23 +63,7 @@ Boilerplate для быстрого старта проектов на FastAPI: 
 
 `full-stack` `audio` `waveforms` `deployed`
 
----
 
-## 🔍 Что я умею 
-
-- **Скрапинг в обход систем защиты (Anti-detection)** — подмена отпечатков TLS (TLS fingerprint spoofing), автоматизация реальных браузеров, управление cookies, имитация поведения реального пользователя.
-- **API бэкенд** — REST-сервисы на FastAPI/Django с JWT-авторизацией, ORM SQLAlchemy, миграции Alembic.
-- **Пайплайны данных** — сбор → парсинг → очистка → экспорт в Excel/JSON/Базы данных.
-- **Разработка ботов** — Telegram-боты с инлайн-клавиатурами и обработкой событий в реальном времени.
-- **Full-stack разработка** — Django + React + Vite, с деплоем на Railway/Vercel.
-
----
-
-## 📬 Контакты
-
-Я открыт для фриланс-проектов в сфере веб-скрапинга, разработки парсеров и бэкенда на Python.
-
-[![Telegram](https://img.shields.io/badge/Написать%20мне%20в%20Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/opmrobert)
 
 
 
