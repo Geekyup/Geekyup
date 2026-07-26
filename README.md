@@ -62,6 +62,7 @@ Boilerplate для быстрого старта проектов на FastAPI: 
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Geekyup&theme=dark)](https://git.io/streak-stats)
 
 
 
