@@ -40,17 +40,6 @@
 
 ---
 
-### 🔐 [template-fastapi-jwt-auth](https://github.com/Geekyup/template-fastapi-jwt-auth)
-> Готовый шаблон JWT-аутентификации на FastAPI
-
-Boilerplate для быстрого старта проектов на FastAPI: регистрация и вход по логину/паролю, выдача access и refresh JWT-токенов, хеширование паролей, защищённые эндпоинты с зависимостями авторизации, асинхронная работа с БД и миграции Alembic. Google OAuth и отправка email — опциональные фичи, подключаются через конфиг без правки кода.
-
-**Стек:** `Python` `FastAPI` `SQLAlchemy` `PostgreSQL` `Alembic` `JWT`
-
-`boilerplate` `auth` `REST API` `migrations`
-
----
-
 ### 🧠 [llm-gateway](https://github.com/Geekyup/llm-gateway)
 > Gateway для LLM API с пулом ключей, ротацией и failover
 
@@ -59,6 +48,17 @@ Boilerplate для быстрого старта проектов на FastAPI: 
 **Стек:** `FastAPI` `SQLAlchemy 2.0` `PostgreSQL` `Redis` `ARQ` `React`
 
 `api-gateway` `key-pooling` `failover` `admin-panel`
+
+---
+
+### 🔐 [template-fastapi-jwt-auth](https://github.com/Geekyup/template-fastapi-jwt-auth)
+> Готовый шаблон JWT-аутентификации на FastAPI
+
+Boilerplate для быстрого старта проектов на FastAPI: регистрация и вход по логину/паролю, выдача access и refresh JWT-токенов, хеширование паролей, защищённые эндпоинты с зависимостями авторизации, асинхронная работа с БД и миграции Alembic. Google OAuth и отправка email — опциональные фичи, подключаются через конфиг без правки кода.
+
+**Стек:** `Python` `FastAPI` `SQLAlchemy` `PostgreSQL` `Alembic` `JWT`
+
+`boilerplate` `auth` `REST API` `migrations`
 
 ---
 
