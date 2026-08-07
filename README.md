@@ -1,6 +1,6 @@
 ## 🚀 Избранные проекты
 
-### 🥁 [Kitroom](https://github.com/Geekyup/Kitroom)
+### 🎵 [Kitroom](https://github.com/Geekyup/Kitroom)
 > Full-stack платформа для обмена драм-китами
 
 Загрузка и хранение драм-китов с обработкой ZIP-архивов, публичные авторские профили, фоновая обработка через воркеры и объектное хранилище. Бэкенд на FastAPI с асинхронным SQLAlchemy, фронтенд на Next.js, деплой через Docker.  
@@ -16,6 +16,8 @@
 > Gateway для LLM API с пулом ключей, ротацией и failover
 
 Сайт держит пул ключей, распределяет нагрузку по round-robin и прозрачно переключается на следующий ключ при 429. Клиентские приложения бьют в единый Gateway Token, не зная, сколько реальных ключей за ним стоит. Админ-панель на React для управления пулом, фоновые задачи на ARQ, шифрование ключей.
+
+**Live демо:** [frontend-production-6aad.up.railway.app](https://llm-gateway-production-bf8b.up.railway.app/)
 
 **Стек:** `FastAPI` `SQLAlchemy 2.0` `PostgreSQL` `Redis` `ARQ` `React`
 
